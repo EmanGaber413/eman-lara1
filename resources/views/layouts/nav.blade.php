@@ -14,11 +14,11 @@
 <nav class="navbar navbar-expand-lg bg-body container">
 
         <div class="nav-item dropdown mx-3">
-            <a class="nav-link dropdown-toggle " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <a class="nav-link dropdown-toggle " href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
              Home
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Home default</a></li>
+              <li><a class="dropdown-item" href="/">Home default</a></li>
               <li><a class="dropdown-item" href="#">Home 2</a></li>
               <li><a class="dropdown-item" href="#">Home 3</a></li>
             </ul>
@@ -27,10 +27,10 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item mx-3">
-            <a class="nav-link active" aria-current="page" href="#">travel</a>
+            <a class="nav-link active" aria-current="page" href="/travel">travel</a>
           </li>
           <li class="nav-item mx-3">
-            <a class="nav-link" href="#">destination</a>
+            <a class="nav-link" href="/destination">destination</a>
           </li>
           <li class="nav-item mx-3">
             <a class="nav-link  " href="#">hotels</a>
